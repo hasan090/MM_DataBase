@@ -1,0 +1,22 @@
+.form-center {
+    display:flex;
+    justify-content: center;
+  }
+
+  .box1 {
+    width: 10em;
+  }
+  .main {
+    border: 1px solid black;
+    padding: 10px; /* Optional: Add padding for spacing inside the border */
+    display: flex;
+    justify-content: space-around;
+    width: 99%;
+    margin-left: 6px;
+  }
+  .main1 {
+    border: 1px solid black;
+    padding: 10px; /* Optional: Add padding for spacing inside the border */
+    
+  }
+ 
